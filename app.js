@@ -5,8 +5,6 @@ const port = 3000;
 app.get('/', (req, res) => {
 
   res.send('Hello Fidel!');
-=======
-  res.send('Hello World!');
 
 });
 
